@@ -1,0 +1,18 @@
+Nama : Ichal Setyo Saputra
+NIM : 22416255201015
+Kelas: IF22G
+Soal UTS PEMWEB
+
+1.	Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+Framework dalam pengembangan aplikasi adalah suatu aplikasi atau sebuah struktur yang 
+disusun atau dibuat dengan tujuan memudahkan dalam menuliskan sebuah code, atau 
+membuat sebuah aplikasi, jadi kita tidak harus membuat aplikasi tersebut dari nol atau 
+dasarnya, dan aplikasi dapat dibuat dengan mudah dan efisien (tidak memakan banyak waktu). 
+2.	a. Tema Proyek Tentang Desa
+b. Asmi : Design Web
+     Ichal : Program Web (buat form login)
+     Ikbal : Program Web (buat dashboard), dan basis data
+c. Permasalahan yang didapat : "Seringkali dalam proses pembuatan KTP agak lama dan melalui 
+proses yang rumit, dan ketika mensensus kependudukan data yang ada tidak sesuai dengan data 
+yang dilapangan dikarenakan pihak yang datang dan pergi tidak melapor ke RT dan RW 
+setempat."
